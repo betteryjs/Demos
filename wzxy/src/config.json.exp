@@ -1,0 +1,14 @@
+{
+  "names":
+  [
+    {"name": "yjs", "username": "xx", "password": "xx", "callPhone": "xx" , "location": ["108.90548","34.156167"], "havelocation": false,"address":  "陕西省宝鸡市岐山县凤鸣花园老区"},
+    {"name": "dyk", "username": "xx", "password": "xx", "callPhone": "xx", "location": ["",""], "havelocation": false,"address":  "陕西省西安市长安区韦曲街道西安邮电大学长安校区西区"}
+
+
+
+  ],
+  "accessKeyId": "xx",
+  "accessKeySecret": "xx",
+  "GDKey":"xx"
+
+}
